@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  margin-top: 300px;
+  color: white;
+}
+.App p {
+  font-size: 100px;
+}
+body {
+  background-color: rgb(80, 79, 80);
+}
