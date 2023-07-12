@@ -1,6 +1,6 @@
 Website: https://react-timer-us.netlify.app/
 
-Steck: React (using class components)
+Stack: React (using class components)
 
 This project was written to explore the "component lifecycle" in React.
 To write the timer app, I used the componrntDidMount() and componentWillUnMount() methods.
